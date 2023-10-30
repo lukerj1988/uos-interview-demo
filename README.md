@@ -12,6 +12,11 @@
 - Run npm install
 - Run npm run test
 
+# From a .zip File
+- After installing node.js
+- Unzip the zip file to a new folder
+- Run via npm or the test.bat file below
+
 ## Alternatively, run with test.bat
 - After installing node.js and cloning the folder
 - Run test.bat to automatically run the framework
