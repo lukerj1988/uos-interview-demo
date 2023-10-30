@@ -14,6 +14,7 @@
 
 # From a .zip File
 - After installing node.js
+- Select the option to download as a .zip file
 - Unzip the zip file to a new folder
 - Run via npm or the test.bat file below
 
