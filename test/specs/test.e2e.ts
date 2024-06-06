@@ -4,6 +4,8 @@ import homePage from '../pageobjects/home.page.ts'
 import loginPage from '../pageobjects/login.page.ts'
 import staffHubPage from '../pageobjects/staff.hub.page.ts'
 
+//This edit was added as part of the UoS Github Demo video
+
 describe('Should be able to navigate to the University of Sheffield Home Page', async function () {
 
     before(async function () {
